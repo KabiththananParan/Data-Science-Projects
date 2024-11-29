@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 
+# Exclude virtual environment
+.venv/
