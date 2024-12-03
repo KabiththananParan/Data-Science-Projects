@@ -2,6 +2,7 @@
 My Data Science Projects
 
 <ol>
-  <li>01. Melbourne Housing Snapshot</li>
-  <li>02. Ecommerce_Purchases_Project</li>
+  <li>Melbourne Housing Snapshot</li>
+  <li>Ecommerce_Purchases_Project</li>
+  <li>SONAR Rock Vs Mine Prediction</li>
 </ol>
